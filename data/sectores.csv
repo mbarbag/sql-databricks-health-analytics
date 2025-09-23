@@ -1,0 +1,53 @@
+id_sector;sector
+0 ;SECTOR GENERAL                    
+A1;HJBA - SALA 1: HOMBRES            
+A2;HJBA - SALA 2: MUJERES            
+A3;HJBA - SALA 3                     
+AG;HJBA - INTERNACION TRANSITORIA    
+B0;AREA DE CUIDADOS INTERMEDIOS BAJOS
+C0;AREA DE CUIDADOS CRITICOS         
+C1;HIC - SALA 1                      
+C2;HIC - SALA 2                      
+C3;HIC - SALA 3                      
+CA;HIC - GUARDIA AISLAMIENTO         
+CC;HIC - GUARDIA (CONSULTORIOS)      
+CD;HIC - HOSPITAL DE DIA (CAMAS)     
+CG;HIC - GUARDIA - (CAMAS)           
+CP;HIC - GUARDIA PASILLO             
+CS;HIC - SHOCK ROOM (CAMILLAS)       
+CT;HIC - TRIAGE                      
+I0;AREA DE CUIDADOS INTERMEDIOS ALTOS
+IR;ILAR                              
+MA;MM - ALTO RIESGO - OBSTETRICIA    
+MC;MM - INTERNACION CONJUNTA - NEO   
+ME;MM - CUIDADOS ESPECIALES - OBSTETR
+MI;MM - INTERMEDIO - NEO             
+MM;MM - CUIDADOS MINIMOS - OBSTETRICI
+MP;MM - PREPARTO                     
+MR;MM - RECUPERACION - NEO           
+MU;MM - UCIN - NEO                   
+R0;UNIDAD RENAL                      
+RA;HRSP - GUARDIA ADULTOS            
+RB;HRSP - SUM ADULTOS                
+RC;HRSP - CUIDADOS MULTIPLES         
+RD;HRSP - HOSPITAL DIA GINECOLOGIA   
+RG;HRSP - GINECOLOGIA                
+RH;HRSP - CLINICA HOMBRES            
+RI;HRSP - GUARDIA PEDIATRICA         
+RM;HRSP - CLINICA MUJERES            
+RN;HRSP - NEONATOLOGIA               
+RO;HRSP - OBSTETRICIA                
+RP;HRSP - PRE PARTO                  
+RS;HRSP - SHOCKROOM                  
+RU;HRSP - UCIM                       
+U0;AREA DE EMERGENCIA PRIMARIA       
+V1;HNVV - SALA 1                     
+V2;HNVV - SALA 2                     
+V3;HNVV - SALA 3                     
+V4;HNVV - SALA 4                     
+V5;HNVV - SALA 5                     
+VG;HNVV - GUARDIA                    
+VH;HNVV - HEMATO-ONCO                
+VO;HNVV - HOSPITAL DIA HEMATO-ONCO   
+VQ;HNVV - QUEMADOS                   
+VU;HNVV - UTI                        
