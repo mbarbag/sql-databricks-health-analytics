@@ -1,0 +1,69 @@
+id_hospital;nombre;calle;altura;titular;distrito;cantidad_camas
+1174;Centro de Salud Alicia Moreau de Justo                                              ;1333                     ;3040;Municipal;oeste;218
+1175;Centro de Salud Dr. Salvador Mazza                                                ;GRANDOLI FLODUARDO       ;3498;Municipal;sur;244
+1176;Centro de Salud Itati                                                            ;GARIBALDI JOSE           ;2502;Municipal;oeste;219
+1177;Centro de Salud 1 de Mayo                                                         ;MENA JUAN DE DIOS        ;2265;Municipal;sur;133
+1178;Centro de Salud Vecinal La Florida                                                ;BRAILLE LUIS             ;1205;Municipal;norte;103
+1179;Centro de Salud Casiano Casas                                                       ;CASAS CASIANO            ;970;Municipal;sudoeste;82
+1181;Centro de Salud Ceferino Namuncura                                                 ;INGENIEROS JOSE          ;8590;Municipal;norte;170
+1182;Centro de Salud Emaus                                                            ;URDINARRAIN              ;7900;Municipal;oeste;105
+1183;Centro de Salud Juana Azurduy B Empalme Graneros                                ;FRAGA CNEL. ROSENDO MARIA;1093;Municipal;oeste;107
+1184;Centro de Salud Vecinal Antonio Paravano                                          ;BURUCUYA                 ;929;Municipal;sudoeste;249
+1185;Centro de Salud Vecinal Angel Invaldi                                             ;ECUADOR                  ;645;Municipal;centro;54
+1188;Centro de Salud Dr. Roque Coulin                                                  ;HUMBERTO 1             ;2033;Municipal;noroeste;69
+1189;Centro de Salud Jean Henry Dunant                                                 ;AGNETA TTE. ALFREDO      ;1439;Municipal;norte;92
+1191;Centro de Salud Vecinal Amor al Estudio                                           ;JUNIN                    ;1684;Municipal;sur;217
+1192;Centro de Salud Dr. Esteban Maradona                                              ;COCHABAMBA               ;5103;Municipal;sudoeste;160
+1193;Centro de Salud Eva Duarte                                                        ;ROUILLON ALFREDO         ;2095;Municipal;sur;121
+1194;Centro de Salud Vecinal Juan Pablo II                                             ;FRAGA CNEL. ROSENDO MARIA;2308;Municipal;sur;132
+1195;Centro de Salud Vecinal Villa Urquiza                                               ;OCAMPO                   ;5779;Municipal;centro;82
+1196;Centro de Salud Dr. David Staffieri                                                 ;PERON PRESIDENTE JUAN DOM;4540;Municipal;centro;71
+1197;Centro de Salud Sta. Maria Josefa Rossello                                       ;RIVAROLA DR. RODOLFO     ;7501;Municipal;centro;135
+1198;Centro de Salud Mauricio Casal                                                    ;SEGUI JUAN FRANCISCO     ;5305;Municipal;norte;135
+1199;Centro de Salud Julio A. Roca                                                     ;DELIOT V                 ;5323;Municipal;sur;59
+1200;Centro de Salud Barrio Toba                                                         ;TAREGUEC                 ;4320;Municipal;norte;172
+1202;Centro de Salud San Marcelino Champagnat                                          ;CASTELLANOS AARON        ;3935;Municipal;norte;249
+1204;Centro de Salud Enfermero Ariel E. Morandi B Plata                              ;LAMADRID GREGORIO ARAOZ D;3307;Municipal;norte;84
+1205;Centro de Salud El Gaucho                                                         ;AVELLANEDA NICOLAS       ;5625;Municipal;sudoeste;198
+1206;Centro de Salud Vecinal Parque sur                                             ;BOLONIA                  ;5350;Municipal;centro;172
+1208;Centro de Salud Vecinal San Martin A                                             ;PIEDRAS                  ;1469;Municipal;sudoeste;147
+1209;Centro de Salud Vecinal Las Flores Este                                           ;KHANTUTA                 ;1397;Municipal;oeste;134
+1210;Centro de Salud Las Flores                                                        ;FLOR DE NACAR            ;6983;Municipal;sur;164
+1211;Centro de Salud Tio Rolo                                                         ;AVELLANEDA NICOLAS       ;6600;Municipal;oeste;227
+1212;Centro de Salud San Vicente de Paul                                               ;PUNTA DEL INDIO          ;7760;Municipal;sur;121
+1214;Centro de Salud Luis Pasteur                                                      ;AYOLAS JUAN DE           ;270;Municipal;oeste;229
+1216;Centro de Salud Ruben Naranjo                                                    ;SANCHEZ DE THOMPSON MARIQ;9;Municipal;oeste;173
+1218;Centro de Salud sur                                                          ;AYACUCHO BATALLA DE      ;6300;Municipal;centro;158
+1220;Hospital Provincial                                                                 ;ALEM LEANDRO N           ;1450;Provincial;norte;186
+1221;Hospital Provincial del Centenario                                                  ;URQUIZA GRAL. JUSTO JOSE ;3101;Provincial;sur;53
+1250;Hospital de Ninos Zona norte                                                  ;DE LOS TRABAJADORES      ;1331;Provincial;sudoeste;90
+1373;Centro de Salud Juan B. Justo                                                     ;JUSTO JUAN B             ;2083;Municipal;sudoeste;139
+1567;Hospital Intendente Gabriel Carrasco                                                ;AVELLANEDA NICOLAS       ;1402;Municipal;norte;84
+1716;Hospital Dr. Roque Saenz Pena                                                   ;LAPRIDA FRANCISCO NARCISO;5381;Municipal;noroeste;181
+1717;Hospital Dr. Juan Bautista Alberdi                                                ;PUCCIO JOSE N            ;575;Municipal;sudoeste;145
+1718;Hospital de Emergencias Dr. Clemente Alvarez                                     ;PELLEGRINI CARLOS        ;3205;Municipal;centro;162
+1721;Maternidad Martin                                                                   ;SAN LUIS                 ;2020;Municipal;sur;57
+1727;Centro de Especialidades Medicas Ambulatorias de Rosario M. H. Zuasnabar (CEMAR);SAN LUIS                 ;2020;Municipal;centro;52
+1728;Centro de Salud 20 de Junio - B Tiro Suizo                                        ;MARGIS PEDRO JOSE        ;5115;Municipal;noroeste;169
+1730;Centro de Salud Vecinal Domingo Matheu                                            ;CORRIENTES               ;3880;Municipal;sur;136
+1749;Centro de Salud Pocho Lepratti                                                    ;MELIAN JOSE              ;6386;Municipal;sudoeste;243
+1792;Policlinico PAMI I                                                                 ;SARMIENTO DOMINGO FAUSTIN;373;Nacional;centro;123
+1793;Policlinico PAMI II                                                                ;OLIVE AUGUSTO J          ;1159;Nacional;centro;131
+1845;Instituto del Alimento Dr. Benjamin Berisso                                        ;LIMA                     ;865;Municipal;norte;93
+2471;Centro de Salud Martin                                                            ;MORENO MARIANO           ;950;Municipal;sur;73
+2485;Centro de Salud Luchemos por la vida                                              ;SEGUI JUAN FRANCISCO     ;6552;Municipal;norte;165
+3164;Centro de Salud Dra. Debora Ferrandini                                             ;PROVINCIAS UNIDAS        ;150;Municipal;sur;166
+3167;Centro de Salud Vecinal Victor Cue                                                ;PASO JUAN JOSE           ;5490;Municipal;noroeste;135
+3169;Centro de Salud Santa Lucia                                                      ;1739                     ;7691;Municipal;sur;239
+3170;Centro de Salud Santa Teresita                                                    ;FRANCIA                  ;4435;Municipal;noroeste;108
+3171;Centro de Salud Elena Bazzet                                                      ;CABRINI MADRE            ;2717;Municipal;centro;207
+3172;Centro de Salud El Mangrullo                                                      ;MANGRULLO EL             ;5150;Municipal;centro;125
+3173;Centro de Salud Dr. Julio Maiztegui                                               ;ROSA JOSE MARIA          ;9201;Municipal;sudoeste;236
+3175;Laboratorio de Especialidades Medicinales (LEM)                                     ;LAVALLE GENERAL JUAN     ;370;Municipal;noroeste;59
+3687;Centro de Salud Lic. Jose Raul Ugarte                                           ;SUINDA                   ;980;Municipal;noroeste;188
+3743;Policlinico San Martin                                                          ;CHUBUT                   ;7145;Municipal;sur;147
+4449;Centro de Salud Dr. Julio Maiztegui                                                 ;ROSA JOSE MARIA          ;9201;Municipal;centro;103
+4474;Hospital Espanol                                                                   ;SARMIENTO DOMINGO FAUSTIN;3150;Privado;norte;187
+4528;Hospital de Ninos Victor J. Vilela                                              ;VIRASORO GRAL. BENJAMIN  ;1855;Municipal;noroeste;200
+5029;Instituto Municipalde Salud Animal (IMuSA)                                         ;FRANCIA                  ;1940;Municipal;sudoeste;55
+5873;La Estacion                                                                        ;GALVEZ JOSE              ;867;Municipal;sur;219
