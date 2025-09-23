@@ -7,6 +7,8 @@ Ejercicios prácticos de SQL realizados en Databricks utilizando datos reales de
 - **Período**: 2019-2022
 - **Tablas**: Pacientes, Hospitales, Diagnósticos, Sectores, Internaciones
 
+![Diagrama Entidad-Relación - Sistema de Salud](DER-Salud.jpg)
+
 ## 📁 Contenido
 - `Dia1.sql` - **SQL Básico**: Exploración, agrupaciones, funciones de agregación y texto, manejo de NULL, CASE y JOINs básicos
 - `Dia2.sql` - **JOINs Avanzados**: Todos los tipos de JOIN, COALESCE, CAST y consultas especializadas  
