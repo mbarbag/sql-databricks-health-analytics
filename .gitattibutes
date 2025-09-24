@@ -1,0 +1,2 @@
+*.sql linguist-language=SQL      # Force GitHub to count these files as SQL
+*.csv linguist-detectable=false  # Exclude these files from the language statistics
