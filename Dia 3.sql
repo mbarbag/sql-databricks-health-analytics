@@ -144,6 +144,7 @@ GROUP BY distrito;
 
 -- COMMAND ----------
 
+-- Opción 1: INNER JOIN con un SELECT
 SELECT h1.nombre, h1.distrito, h1.cantidad_camas, avg_distrito.promedio
 FROM hospitales AS h1
 INNER JOIN (
@@ -155,6 +156,7 @@ WHERE h1.cantidad_camas > avg_distrito.promedio;
 
 -- COMMAND ----------
 
+-- Opción 2: valores de distrito quemados (NO es la mejor opción). CASE in WHERE clausule. 
 SELECT 
   nombre, 
   distrito, 
@@ -182,7 +184,7 @@ WHERE
 -- COMMAND ----------
 
 /* 
-  SUBCONSULTA CORRELACIONADA
+  Opción 3: SUBCONSULTA CORRELACIONADA
   El término en inglés es "Correlated Subqueries" o "Correlated Nested Queries".
   Una subconsulta correlacionada es una subconsulta que depende de valores de la consulta externa para su ejecución. A diferencia de las subconsultas independientes, estas no pueden ejecutarse de forma aislada porque necesitan información de la consulta "padre".
   Características clave
